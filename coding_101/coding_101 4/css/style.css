@@ -1,0 +1,40 @@
+body {
+  background-color: white;
+  color: green;
+  font-style: normal;
+  font-family: Roboto,sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+  h1 {
+  border: 5px solid red;
+  background-color: pink;
+  border: 3px solid blue;
+  padding: 30px;
+  margin-bottom: 60px;
+}
+
+h2 {
+  border: 4px dotted blue;
+}
+
+div {
+  border: double;
+}
+.mammals {
+  color: red;
+  font-weight: bold;
+  }
+.birds {
+  color: blue;
+  font-style: italic;
+}
+
+#first-list li {
+  display: inline-block;
+  margiin: 30px;
+}
+img{
+  display: inline-block;
+  width: 300px;
+}
